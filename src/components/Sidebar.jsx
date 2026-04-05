@@ -19,7 +19,7 @@ const Sidebar = () => {
     <>
       {/* Toggle button */}
       <button 
-        className="fixed top-4 left-4 z-50 bg-black text-white px-3 py-2 rounded"
+        className="fixed top-4 left-2 z-50 bg-black/70 backdrop-blur-sm text-white px-1 py-1 rounded"
         onClick={() => setOpen(!open)}
       >
         <Menu className="w-4 h-4 text-white" />
