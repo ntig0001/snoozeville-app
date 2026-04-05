@@ -39,8 +39,8 @@ const App = () => {
                         <table className="w-full bg-white border">
                             <thead>
                                 <tr className="bg-gray-100">
-                                    <th className="p-2 border">Role</th>
-                                    <th className="p-2 border">Personel</th>
+                                    <th className="text-left p-2 border">Role</th>
+                                    <th className="text-left p-2 border">Personel</th>
                                 </tr>
                             </thead>
                             <tbody>
